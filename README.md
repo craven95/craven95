@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @craven95
 - 👀 I’m interested in Python 
 - 🌱 I’m currently working at Milvue
-- 💞️ I’m looking to collaborate with data scientists or AI's engineers !
+- 💞️ I’m learning AI !
 - 📫 How to reach me ? Send me a mail to cravendiot@gamil.com :)
 
 <!---
