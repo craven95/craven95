@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @craven95
-- 👀 I’m interested in Python 
-- 🌱 I’m currently working at Milvue
-- 💞️ I’m learning AI !
+- 👋 Hi, I’m Craven
+- 👀 I’m interested in Data Engineering 
+- 🌱 I’m available as freelance engineer
+- 💞️ I’m learning ETL pipelines stuff
 - 📫 How to reach me ? Send me a mail to cravendiot@gmail.com :)
 
 <!---
